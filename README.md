@@ -1,4 +1,5 @@
 # glacier-velocity-to-thickness-inversion
 Short matlab scripts to invert for ice thickness from 2D velocity fields with different glacier flow assumptions.
 
-https://doi.org/10.5281/zenodo.3939211
+[![DOI](https://zenodo.org/badge/275832744.svg)](https://zenodo.org/badge/latestdoi/275832744)
+
